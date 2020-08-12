@@ -1,0 +1,141 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : ebf EP4CE10 Pro_20200309.brd                  )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Tue May 19 10:02:24 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_51k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/at24c02_0_sop8_24c64.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/module_lcd_1_fpc-40s-0p5sv_io_f.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0603_discrete_10k_5.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_22r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/12mhz_1_3215_32768k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/25wp_2_soic8-208_ic_w25q16jv.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0603_discrete_124k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0603_discrete_39k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/74lv595_tssop16_ic_74hc595pw.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/dip-2x10-2p54_dip-2x10_2p54_dip.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/jtag_5x2_1_jtag_5x2_2p54_r_jtag.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/type-c-31-m-12_type-c-31-m-12_t.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/2sk3018_0_sot23_ic_2sk3018.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0805_discrete_0r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/ep4ce10f17c8_fbga256_ep4ce10f17.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0603_discrete_nc.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0603_discrete_100r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/32768khz_3225_50mhz.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/con40a_dip-2x20_2p54_con40a.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/cap_np_c0603_discrete_100nf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/diode_schtky_0_sod523_ic_rb521s.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/atom010130010052_hdmi_19p_con_r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0603_discrete_10k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/diode_tvs_bidir_sod523_ic_esd5b.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/srv05-4_sot23_s6_ic_srv05-4.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/pcf8563t_sop8_pcf8563t.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/bat54c_sot23_bat54c.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/fj-3661b_fj3661_fj3661bh.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/ttp223-ba6_sot23-6_ttp223-ba6.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/pcf8591t_soic16w_1r27_10r3x10r3.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/cap_np_c0603_discrete_68pf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/c1608_c0603_01uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/cap_np_c0603_discrete_47uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/cap_np_c0603_discrete_22uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/cap_np_c0603_discrete_47uf__1.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/cap_np_c0603_discrete_01uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/cap_np_c0603_discrete_22pf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/cap_np_c0603_discrete_nc10pf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/cap_np_c0603_discrete_220pf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/ct2012_0_ec6p3_220uf16v.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/cap_np_c0603_discrete_100pf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/cap_np_c0603_discrete_47pf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/connectordb15-3_female2_db15_v.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/zdiode_0_d1206_ic_zmm5v6.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/zdiode_0_do214_ic_smaj50ca.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/fuse_f0805_0r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/con_8_sdcard_detect_1_tfcard_io.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/dht11_ds18b20_sip4-2p54_dht11_d.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/dht11_ds18b20_1_sip3-2p54_hs003.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/mic_jack_ear_jack_mic_jack.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/conn_hdr_7_ph-1x2-2p0_io_ph-1x2.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/inductor_l2520_discrete_22uh.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/bead_l0603_discrete_330100mhz.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_499r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_10k_5.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_100r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_20r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0603_discrete_90k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0603_discrete_20k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0603_discrete_30k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_0r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_120r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0603_discrete_499r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0603_discrete_121k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0603_discrete_270r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_680r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_806k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_402k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_2k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_16k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/wf_pad_0_wf_pad_wf_pad.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/mp2482dn_2_soic8e_egnd_mp2482d.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/mt48lc16m16a2b4_bga54_0_tsop54_.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/max3232eeae_1_soic16_ch340g.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/max3232eeae_soic16_max3232cse.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/tja1057gt3_2_sop8_ic_tja1042t3.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/tja1057gt3_1_sop8_ic_max3485csa.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/lan8720a_qfn24_lan8720a.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/wm8978_4_qfn32_wm8978.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/rt8096chgj5_tsot-23-5_rt8096chg.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/crystal_jxs63_3225_ic_25mhz.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/spacer_0_t4r2-6r2_topsmt_ic_30.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/spacer_0_t4r2-6r2_botsmt_ic_30.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0603_discrete_0r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0603_discrete_1k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0603_discrete_22k_5.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/diodebi-dirtrig_sod323_pesd3v.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/b2s_1_hdr102_dip-1x2-2p54.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/bead_l0603_discrete_330100mhz_.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/ct2012_0_ec6p3_100uf16v.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/ct2012_0_cap100_nc.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/cap_np_c0603_discrete_10uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/cap_np_c0603_discrete_1uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/c1608_c0603_10uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/cap_np_c0603_discrete_22uf__1.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/cr1220_cr1220_cr1220.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/con_db9_db9-f_con_db9.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/led_0_led0603_ic_red.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/zdiode_0_smc_ic_mbrs540t3.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/diode_d1206_in4148.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/led_0_led0603_ic_blue.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/conn_hdr_2x1_con_2pin_io_hdr1x.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/mic_jack_ear_jack_ear_jack.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/2x4_1_dip-2x4-2p54_dip-2x4-2p54.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/rj45_hr961160c_0_rj45_io_hr9111.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/conn_hdr_6x1_sip6-2p54_io_sip6-.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/powerjack_3_jack-2_5mm_b_power.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/lqh32c_0_l1040_fxc1040-100m.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/mic_pom_mic_6x2_2_ic_mic.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/piezobuzzer_0_buzzer_buzzer.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/mosfet_p_sot23_ic_ssm3j328r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/npn_sot23_ic_ss8050.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_47k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_5_r0603_discrete_47k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_1k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_10k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_47k__1.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_402k__1.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/res_r0603_discrete_768k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/resadj_0_rm065-v1_1k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/sw_pb_esw_0_sw4_pb_esw_sm_p177_.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/u-mp2012dq_2_switch_ddsz_power-.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/ap3216c_0_ap3216c_ap3216c.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/12mhz_1_xtal_smd_12mhz.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/CADENCE/EBF——FPGA系列/最终文件/EP4CE10 Pro/封装库/CADENCE格式/ebf EP4CE10 Pro_20200309_PCB库_Allegro格式/12mhz_1_xtal-dip_nc.txt': written successfully.
+
+  Created device files: 126
+
